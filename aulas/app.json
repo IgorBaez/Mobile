@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aula0704",
-    "slug": "aula0704",
+    "name": "aulas",
+    "slug": "aulas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
