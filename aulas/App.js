@@ -77,6 +77,12 @@ export default function App() {
       username: 'HisanoEdu',
       imageSource: require('./Image/maomao.jpg'),
     },
+    {
+      key: 'card6',
+      profilePic: 'https://avatars.githubusercontent.com/u/180126607?v=4',
+      username: 'HisanoEdu',
+      imageSource: require('./Image/maomao2.jpg'),
+    },
   ];
 
   return (
